@@ -1,4 +1,8 @@
 a
+<<<<<<< HEAD
 b
 c
 d
+=======
+b
+>>>>>>> parent of c95944b... commit 3rd
