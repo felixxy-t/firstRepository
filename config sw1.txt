@@ -1,17 +1,1 @@
-<<<<<<< HEAD
-a
-<<<<<<< HEAD
-b
-c
-d
-=======
-b
->>>>>>> parent of c95944b... commit 3rd
-=======
-a
->>>>>>> parent of 26a071c... edited config sw1.txt
-
 123
-
-fix_aaa_bug
-1
