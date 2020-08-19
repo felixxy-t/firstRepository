@@ -10,3 +10,5 @@ b
 =======
 a
 >>>>>>> parent of 26a071c... edited config sw1.txt
+
+123
